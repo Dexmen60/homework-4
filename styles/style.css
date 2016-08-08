@@ -10,7 +10,7 @@ body ul,h1{
     padding: 0;
     margin: 0;
 }
-.header h1 {
+.header h1{
 	font-size: 92px;
 	margin-left: 155px;
 	padding-top: 68px;
@@ -34,7 +34,6 @@ body ul,h1{
 	height: 256px;
 	position: relative;
 }
-
 .main_data{
 	display: block;
 	color: #F4F6FB;
@@ -72,7 +71,6 @@ body ul,h1{
 	position: absolute;
     top: 199px;
 	left: 555px;
-
 }
 h2{
 	margin-top: 0px;
@@ -108,7 +106,6 @@ label{
 	display: block;
 	font-size: 52px;
 	margin-bottom: 70px;
-
 }
 input{
 	border-left: 0 ;
@@ -128,7 +125,6 @@ textarea {
 	border:3px solid #000;
 	margin-bottom: 95px;
 }
-
 .footer {
 	height: 176px;
 }
